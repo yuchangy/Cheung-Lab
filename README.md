@@ -8,4 +8,4 @@ APOE is cholestrol carrying protein that has been known to cause Alzheimer's Dis
 Conclusion: Images of the Boxplot Result indicates that there is a reduced expression of APOE in Alzheimer's Disease Patients. A hypothesis I can draw from this conclusion is that the brain has trouble processing fat in the brain, which could cause certain neurons to be blocked. 
 
 Future Goal:
-Aside from APOE, I would like to see if there are other over expressions of genes that also have a cause on the development of Alzheimer's disease. Additionally, I want to look to see if younger patients with Alzheimer's disease also have this issue of low APOE gene expression
+Creating a Machine Learning Model that can use to predict the early stages of Alzheimer's through looking through DNA gene expression. Statsistical Analysis has shown that there isn't a correlation but other papers has suggested that it is a possibility. For this reason, more data needs to be collected and trained to understand the proability of this kind of Alzheimer's disease to occur.
